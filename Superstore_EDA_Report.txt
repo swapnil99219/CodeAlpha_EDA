@@ -1,0 +1,119 @@
+SUPERSTORE EXPLORATORY DATA ANALYSIS REPORT
+==================================================
+
+1. PROJECT OVERVIEW
+This project analyzes the Sample Superstore dataset using Python, Pandas, Matplotlib and Seaborn.
+
+2. DATASET INFORMATION
+Total rows: 9994
+Total columns: 25
+Missing values: 0
+Duplicate rows: 0
+
+3. KEY PERFORMANCE INDICATORS
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Orders: 5,009
+Total Customers: 793
+Total Products: 1,862
+Total Quantity: 37,873
+Average Order Value: $458.61
+
+4. SALES BY CATEGORY
+Category
+Technology         836154.0330
+Furniture          741999.7953
+Office Supplies    719047.0320
+
+5. PROFIT BY CATEGORY
+Category
+Technology         145454.9481
+Office Supplies    122490.8008
+Furniture           18451.2728
+
+6. SALES BY REGION
+Region
+West       725457.8245
+East       678781.2400
+Central    501239.8908
+South      391721.9050
+
+7. TOP 10 PRODUCTS BY SALES
+Product Name
+Canon imageCLASS 2200 Advanced Copier                                          61599.824
+Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind    27453.384
+Cisco TelePresence System EX90 Videoconferencing Unit                          22638.480
+HON 5400 Series Task Chairs for Big and Tall                                   21870.576
+GBC DocuBind TL300 Electric Binding System                                     19823.479
+GBC Ibimaster 500 Manual ProClick Binding System                               19024.500
+Hewlett Packard LaserJet 3310 Copier                                           18839.686
+HP Designjet T520 Inkjet Large Format Printer - 24" Color                      18374.895
+GBC DocuBind P400 Electric Binding System                                      17965.068
+High Speed Automatic Electric Letter Opener                                    17030.312
+
+8. TOP 10 LOSS-MAKING PRODUCTS
+Product Name
+Cubify CubeX 3D Printer Double Head Print                           -8879.9704
+Lexmark MX611dhe Monochrome Laser Printer                           -4589.9730
+Cubify CubeX 3D Printer Triple Head Print                           -3839.9904
+Chromcraft Bull-Nose Wood Oval Conference Tables & Bases            -2876.1156
+Bush Advantage Collection Racetrack Conference Table                -1934.3976
+GBC DocuBind P400 Electric Binding System                           -1878.1662
+Cisco TelePresence System EX90 Videoconferencing Unit               -1811.0784
+Martin Yale Chadless Opener Electric Letter Opener                  -1299.1836
+Balt Solid Wood Round Tables                                        -1201.0581
+BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables   -1148.4375
+
+9. MONTHLY SALES
+Order Month Start
+2014-01-01     14236.8950
+2014-02-01      4519.8920
+2014-03-01     55691.0090
+2014-04-01     28295.3450
+2014-05-01     23648.2870
+2014-06-01     34595.1276
+2014-07-01     33946.3930
+2014-08-01     27909.4685
+2014-09-01     81777.3508
+2014-10-01     31453.3930
+2014-11-01     78628.7167
+2014-12-01     69545.6205
+2015-01-01     18174.0756
+2015-02-01     11951.4110
+2015-03-01     38726.2520
+2015-04-01     34195.2085
+2015-05-01     30131.6865
+2015-06-01     24797.2920
+2015-07-01     28765.3250
+2015-08-01     36898.3322
+2015-09-01     64595.9180
+2015-10-01     31404.9235
+2015-11-01     75972.5635
+2015-12-01     74919.5212
+2016-01-01     18542.4910
+2016-02-01     22978.8150
+2016-03-01     51715.8750
+2016-04-01     38750.0390
+2016-05-01     56987.7280
+2016-06-01     40344.5340
+2016-07-01     39261.9630
+2016-08-01     31115.3743
+2016-09-01     73410.0249
+2016-10-01     59687.7450
+2016-11-01     79411.9658
+2016-12-01     96999.0430
+2017-01-01     43971.3740
+2017-02-01     20301.1334
+2017-03-01     58872.3528
+2017-04-01     36521.5361
+2017-05-01     44261.1102
+2017-06-01     52981.7257
+2017-07-01     45264.4160
+2017-08-01     63120.8880
+2017-09-01     87866.6520
+2017-10-01     77776.9232
+2017-11-01    118447.8250
+2017-12-01     83829.3188
+
+10. CONCLUSION
+The analysis examines sales, profitability, customer segments, products, regions and monthly trends. Business recommendations should be based on the observed results and visualizations.
