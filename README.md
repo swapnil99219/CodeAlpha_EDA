@@ -34,9 +34,23 @@ The saved report describes 9,994 records and 25 columns. The notebook preview cu
 
 The saved report lists total sales of **$2,297,200.86**, total profit of **$286,397.02**, 5,009 orders, 793 customers, and 37,873 units. These are reported outputs, not independently re-executed in this README update; rerun the notebook and reconcile definitions before relying on them.
 
-## Key findings and recommendations
+## Findings recorded in the saved report
 
-Complete this section after re-running the notebook and validating the output. Include five evidence-based findings and recommendations tied to the results. Avoid claims that cannot be traced to a chart or calculation.
+The saved report contains these results; rerun the notebook to independently verify them before presenting them as final conclusions.
+
+1. **Technology leads in sales and profit** in the report, with sales of approximately $836,154 and profit of approximately $145,455.
+2. **Furniture needs a profitability review:** the report lists about $742,000 in sales but only about $18,451 in profit, substantially below the other categories.
+3. **Regional performance varies:** the West has the highest reported sales (about $725,458), while the South has the lowest (about $391,722).
+4. **Some products show substantial losses:** the report lists the Cubify CubeX 3D Printer Double Head Print at about -$8,880 profit.
+5. **Sales vary by month:** the report's highest listed monthly sales value is approximately $118,448 in November 2017.
+
+## Business recommendations to validate
+
+- Investigate furniture sub-categories and discount levels to understand low profitability before changing pricing.
+- Review loss-making products alongside discount, shipping, and sales-volume data; do not assume discount alone caused the loss.
+- Compare regional product mix and order volume to understand the West–South sales gap.
+- Check seasonality and inventory planning around stronger sales months.
+- Add a chart or table reference for each recommendation after re-running the notebook.
 
 ## How to run
 
