@@ -1,29 +1,55 @@
 # Superstore Exploratory Data Analysis (EDA)
 
-## Project Overview
-Exploratory Data Analysis of the Sample Superstore dataset using Python to understand sales, profit, products, customers, regions, and trends.
+Exploratory analysis of the Sample Superstore dataset using Python to study sales, profit, products, customers, regions, and trends.
 
-## Objectives
-- Inspect data quality and structure.
-- Analyze sales and profitability.
-- Compare product categories and regions.
-- Identify top-performing and loss-making products.
-- Analyze monthly trends and discount-profit relationships.
+## Tools
 
-## Tools Used
 - Python
 - Pandas and NumPy
 - Matplotlib and Seaborn
-- Google Colab
+- Jupyter Notebook / Google Colab
 
-## Project Files
-- `CodeAlpha_Superstore_EDA.ipynb` — analysis code and charts
-- `Superstore_EDA_Report.txt` — analysis report
-- `superstore_eda_summary.csv` — KPI summary
-- `superstore_category_analysis.csv` — category analysis
+## Dataset
 
-## Key Findings
-Add five actual findings from the notebook outputs.
+The saved report describes 9,994 records and 25 columns. The notebook preview currently shows 9,994 rows and 21 columns, so verify the final imported dataset and report before publishing a definitive schema description. The report also records no missing values and no duplicate rows; rerun the checks to confirm.
 
-## Conclusion
-This project explores business performance through data analysis and visualizations. Recommendations should be based on the observed results.
+## Project files
+
+| File | Purpose |
+|---|---|
+| `CodeAlpha_Superstore_EDA.ipynb` | Analysis notebook |
+| `Superstore_EDA_Report.txt` | Summary report |
+| `superstore_eda_summary.csv` | KPI summary |
+| `superstore_category_analysis.csv` | Category analysis |
+
+## Questions explored
+
+- Which categories and regions generate the most sales?
+- Which categories are most profitable?
+- Which products generate the largest losses?
+- How do sales change month by month?
+- What relationship appears between discounting and profit?
+
+## Reported summary metrics
+
+The saved report lists total sales of **$2,297,200.86**, total profit of **$286,397.02**, 5,009 orders, 793 customers, and 37,873 units. These are reported outputs, not independently re-executed in this README update; rerun the notebook and reconcile definitions before relying on them.
+
+## Key findings and recommendations
+
+Complete this section after re-running the notebook and validating the output. Include five evidence-based findings and recommendations tied to the results. Avoid claims that cannot be traced to a chart or calculation.
+
+## How to run
+
+1. Download the notebook and source dataset.
+2. Open the notebook in Jupyter or Google Colab.
+3. Update the dataset path for your environment.
+4. Run all cells from top to bottom.
+5. Compare the notebook outputs with the saved report and CSV summaries.
+
+## Skills demonstrated
+
+Data loading and quality checks, exploratory data analysis, aggregation, visualization, category and regional analysis, and business interpretation.
+
+## Author
+
+Swapnil Rathod
